@@ -1,4 +1,7 @@
 # FitBit Exploratory Data Analysis
+**Author**: Jose Rodrigo Chacon 
+
+**Date**:[]
 
 **Data Set Source:** https://www.kaggle.com/datasets/arashnic/fitbit?select=mturkfitbit_export_4.12.16-5.12.16
 
@@ -24,3 +27,7 @@ Research questions are proposed, such as identifying the most active hours and d
 - Recommendations for future research include implementing experimental manipulations for causal inference and addressing limitations like missing data points and potential confounding factors.
   
 In summary, the analysis delves into Fitbit data to explore the relationship between activity levels and various health metrics, providing insights and recommendations for future research.
+
+
+**Skills Developed**
+[]
