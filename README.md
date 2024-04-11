@@ -13,13 +13,13 @@ The project aims to analyze Fitbit data to explore various health-related questi
 ## 2. Data Exploration and Statistics:
 
 - Selected datasets from Fitbit include daily activity, calorie burn, steps taken, and sleep data. Research questions are proposed, such as identifying the most active hours and days of the week, exploring the relationship between steps and calorie burn, and investigating the impact of exercise duration on sleep quality.
-- Statistical analysis includes histograms, scatter plots, correlation coefficients, and hypothesis tests to answer these questions.
+- Statistical analysis includes histograms, line plots, correlation matrices, and hypothesis tests to answer these questions.
 
 ## 3. Regression Models:
 
 - Regression analysis is conducted to examine how activity levels influence sleep duration.
 - Data preprocessing involves merging datasets, selecting predictors, and categorizing data based on activity levels and sleep patterns.
-- Various regression models are evaluated using metrics like coefficient of determination (R^2) and root mean squared error (RMSE) to determine the best model for predicting sleep duration based on activity levels.
+- Various regression models are evaluated using metrics like the root mean squared error (RMSE) to determine the best model for predicting sleep duration based on activity levels.
 
 ## 4. Discussion and Recommendations:
 
